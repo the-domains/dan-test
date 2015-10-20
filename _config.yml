@@ -2,6 +2,7 @@ name: Dan Test
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.8899558195844293
+title: Testing Site
 cta:
   domain: null
   bucket: null
